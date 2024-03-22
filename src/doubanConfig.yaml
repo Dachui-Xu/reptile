@@ -1,0 +1,23 @@
+browser:
+  browser_type: Edge
+  headless: true
+cookies:
+  __utma: 223695111.1083537511.1708239966.1711005297.1711070690.13
+  __utmb: 223695111.0.10.1711070690
+  __utmc: '223695111'
+  __utmv: '30149280.27915'
+  __utmz: 30149280.1711011072.23.18.utmcsr=music.douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/subject/36770176/comments/
+  _pk_id.100001.4cf6: 7a1363b7c06a8722.1708239965.
+  _pk_ref.100001.4cf6: '%5B%22%22%2C%22%22%2C1711070689%2C%22https%3A%2F%2Fwww.douban.com%2Fmisc%2Fsorry%3Foriginal-url%3Dhttps%3A%2F%2Fmovie.douban.com%2F%22%5D'
+  _pk_ses.100001.4cf6: '1'
+  _vwo_uuid_v2: D982591A09BEA9450F679BBB9283135FB|66e15a5e62cc9ffe2e70c8746c4c3438
+  ap_v: 0,6.0
+  bid: lWwxH5R5cQY
+  ck: JIgT
+  ct: y
+  dbcl2: 279151202:yZTcleZF0j4
+  frodotk_db: 8209170fdadb685d861b452f90923917
+  ll: '118146'
+  push_doumail_num: '0'
+  push_noty_num: '0'
+  viewed: '35587028_26916709_26951584_36813454_36711022_36774503_36734675_1058360_26952828_35384070'
