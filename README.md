@@ -14,7 +14,7 @@
 
 采用[Ollama](https://ollama.com/)部署本地的大模型，拉取gemma或llama2对评论进行分析，以下是测试文件，主要分析了电影功夫的评论内容。
 
-[评论内容分析代码在result文件夹](./result/comment_analyze.ipynb’)
+[评论内容分析代码在result文件夹](./result/comment_analyze.ipynb)
 
 ## 其他内容
 
