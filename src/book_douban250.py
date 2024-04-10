@@ -34,8 +34,11 @@ for i in range(0, 10):
         # 获取评价人数
         rating_num_text = item.find('span', class_='pl').text
         rating_num = ''.join(re.findall(r'\d+', rating_num_text))
+        # 获取链接
+        link = item.find('a', class_='nbg')['href']
         # 存储这本书的信息
-        books.append({'title': title, 'rating': rating, 'rating_num': rating_num, 'autor': autor, 'publisher': publisher,'price': price})
+        books.append({'书名': title, '评分': rating, '评分人数': rating_num, '作者': autor, '出版社': publisher,'价格': price,"链接":link})
+
 
     # 延时，以避免对服务器造成过大压力
     time.sleep(2)  # 休息两秒钟

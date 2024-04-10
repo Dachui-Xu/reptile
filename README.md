@@ -32,7 +32,12 @@
 
 ### 采用requests的方式
 `book_douban250.py`: 用于爬取豆瓣读书250。
-[豆瓣250](./result/douban_books_top250.xlsx)
+[豆瓣读书250](./result/douban_books_top250.xlsx)
+
+在金山文档中实现爬虫，以豆瓣读书250代码为基础进行修改：
+
+【金山文档 | WPS云文档】 爬虫
+https://kdocs.cn/l/crSWTx1wgJRV
 
 # 环境
 
